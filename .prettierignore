@@ -1,0 +1,2 @@
+# Ignore files that Prettier would format the table incorrectly
+docs/**/avm/teal/specification.md
